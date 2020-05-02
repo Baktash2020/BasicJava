@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<suite name = "Regression Testing 12.3">
+<test name = "For Release 3">
+<classes>
+
+
+<class name = "AmericanCapitalTestScripts.Contacts"></class>
+<class name = "AmericanCapitalTestScripts.ValidateHomePage"></class>
+
+
+
+
+
+
+</classes>
+</test>
+</suite>
